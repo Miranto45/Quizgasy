@@ -1,1 +1,1 @@
-anaty bin le apk ry Mr
+anaty kivy_app de  bin le apk ry Mr
